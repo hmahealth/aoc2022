@@ -1,4 +1,3 @@
-import copy
 f = open("day09.dat", "r")
 
 row = 0
